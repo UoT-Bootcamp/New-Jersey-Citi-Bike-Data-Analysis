@@ -1,6 +1,11 @@
 # Tableau-Challenge
 
+
 Citi Bike Analytics
+
+
+Click here - https://public.tableau.com/profile/preeti3210#!/vizhome/citybike_dashboard/Dashboard-ridershipin2020
+
 
 ongratulations on your new job! As the new lead analyst for the New York Citi Bike Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the Citi Bike Data webpage.
