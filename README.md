@@ -1,7 +1,7 @@
 # Citi Bike Analytics
 
 
-Click here - https://public.tableau.com/profile/preeti3210#!/vizhome/citybike_dashboard/Dashboard-ridershipin2020
+Click here - https://public.tableau.com/profile/preeti3210#!/vizhome/citybike_dashboard/Dashboard-popularstations?publish=yes
 
 ## Brief Background:
 
@@ -18,7 +18,7 @@ Our team selected New Jersey data to build a dashboard and answer questions of t
 * By what percentage has total ridership grown?
 * How has the proportion of short-term customers and annual subscribers changed?
 
-https://github.com/UoT-Bootcamp/Tableau-Challenge/blob/main/screenshots/change.png <br>
+![img](https://github.com/UoT-Bootcamp/Tableau-Challenge/blob/main/screenshots/change.png) <br>
 
 ### Analysis:
 
@@ -29,7 +29,7 @@ Total trips recordeed during January till October 2020 is  273,747. There is a i
 * What are the peak hours in which bikes are used during summer months?
 * What are the peak hours in which bikes are used during winter months?
 
-https://github.com/UoT-Bootcamp/Tableau-Challenge/blob/main/screenshots/peak_hours.png<br>
+![img](https://github.com/UoT-Bootcamp/Tableau-Challenge/blob/main/screenshots/peak_hours.png) <br>
 
 ### Analysis:
 
@@ -42,4 +42,37 @@ During summer, riders are most active during 18:00 hours. However, in winter, th
 * Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
 * Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
 
+![img](https://github.com/UoT-Bootcamp/Tableau-Challenge/blob/main/screenshots/top10_bottom_10.png) <br>
 
+### Analysis:
+
+As on 12th Oct, 2020, As 'Grove St Path' is most popular station to start and end journey. 'JCBS Depot' station is least popular to start a journey.
+
+### Questions:
+
+* Today, what is the gender breakdown of active participants (Male v. Female)?
+* How effective has gender outreach been in increasing female ridership over the timespan?
+* How does the average trip duration change by age?
+
+![img](https://github.com/UoT-Bootcamp/Tableau-Challenge/blob/main/screenshots/gender_dashboard.png) <br>
+
+### Analysis:
+
+As on 12th Oct, 2020, 70.09% riders are male whereas 17.95% are female. The gender of 11.97% riders are not known. Female ridership has increased the most during August. It is quite interesting to see that young group leass that 22 years and old persons with age group of 51 and 78 years have greatest average trip durations. They prefer to do cycling to keep themselves fit and healthy.
+
+### Questions:
+
+* What is the average distance in miles that a bike is ridden?
+* Which bikes (by ID) are most likely due for repair or inspection in the timespan?
+
+![img](https://github.com/UoT-Bootcamp/Tableau-Challenge/blob/main/screenshots/repair_bike.png) <br>
+
+### Analysis:
+
+Bike with ID '38355' has maximum trip duration. Hence, we can interpret that it is most likely for repair or inspection.
+
+### City Official Map
+
+![img](https://github.com/UoT-Bootcamp/Tableau-Challenge/blob/main/screenshots/map.png) <br>
+
+Map view of the stations with the number of trips indicated by the size of circle.'Grove St Path' is most poular station to start and end a journey.
