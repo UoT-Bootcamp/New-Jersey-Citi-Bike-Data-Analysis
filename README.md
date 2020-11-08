@@ -3,7 +3,7 @@
 ![img](https://github.com/UoT-Bootcamp/Tableau-Challenge/blob/main/screenshots/20-Tableau_Homework_Instructions_Images_citi-bike-station-bikes.jpg)<br>
 
 
-Click [here](https://public.tableau.com/profile/preeti3210#!/vizhome/citybike_dashboard) to see the complete dashboard and story.
+Click [here](https://public.tableau.com/profile/preeti3210#!/vizhome/citybike_dashboard/Dashboard-popularstations?publish=yes) to see the complete dashboard and story.
 
 ## Brief Background:
 
