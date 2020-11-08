@@ -1,7 +1,10 @@
 # Citi Bike Analytics
 
+![img](https://github.com/UoT-Bootcamp/Tableau-Challenge/blob/main/screenshots/20-Tableau_Homework_Instructions_Images_citi-bike-station-bikes.jpg)<br>
 
-Click here - https://public.tableau.com/profile/preeti3210#!/vizhome/citybike_dashboard/Dashboard-popularstations?publish=yes
+
+Click here to see the complete dashboard and story - https://public.tableau.com/profile/preeti3210#!/vizhome/citybike_dashboard/Dashboard-popularstations?publish=yes
+
 
 ## Brief Background:
 
@@ -10,9 +13,10 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so our task on the job is to build a set of data reports to provide the answers.
 Our team selected New Jersey data to build a dashboard and answer questions of the City Officials.
 
+
 ## Question set and the analysis:
 
-### Questions:
+### 1. Questions:
 
 * How many trips have been recorded total during the chosen period?
 * By what percentage has total ridership grown?
@@ -24,7 +28,8 @@ Our team selected New Jersey data to build a dashboard and answer questions of t
 
 Total trips recordeed during January till October 2020 is  273,747. There is a increase in the ridership during summer season as people like to do out door activities which includes cycling also. Futher we can also say that due to Covid-19, people ride cycles to avoid public transport. Hence we can see a sudden increase during the month of May 2020. Number of rides taken by the subscribers and customers started increasing from April till September.
 
-### Questions:
+
+### 2. Questions:
 
 * What are the peak hours in which bikes are used during summer months?
 * What are the peak hours in which bikes are used during winter months?
@@ -35,7 +40,8 @@ Total trips recordeed during January till October 2020 is  273,747. There is a i
 
 During summer, riders are most active during 18:00 hours. However, in winter, they are most active during morning and evening time.
 
-### Questions:
+
+### 3. Questions:
 
 * Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
 * Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
@@ -48,7 +54,8 @@ During summer, riders are most active during 18:00 hours. However, in winter, th
 
 As on 12th Oct, 2020, As 'Grove St Path' is most popular station to start and end journey. 'JCBS Depot' station is least popular to start a journey.
 
-### Questions:
+
+### 4. Questions:
 
 * Today, what is the gender breakdown of active participants (Male v. Female)?
 * How effective has gender outreach been in increasing female ridership over the timespan?
@@ -60,7 +67,7 @@ As on 12th Oct, 2020, As 'Grove St Path' is most popular station to start and en
 
 As on 12th Oct, 2020, 70.09% riders are male whereas 17.95% are female. The gender of 11.97% riders are not known. Female ridership has increased the most during August. It is quite interesting to see that young group leass that 22 years and old persons with age group of 51 and 78 years have greatest average trip durations. They prefer to do cycling to keep themselves fit and healthy.
 
-### Questions:
+### 5. Questions:
 
 * What is the average distance in miles that a bike is ridden?
 * Which bikes (by ID) are most likely due for repair or inspection in the timespan?
@@ -70,6 +77,7 @@ As on 12th Oct, 2020, 70.09% riders are male whereas 17.95% are female. The gend
 ### Analysis:
 
 Bike with ID '38355' has maximum trip duration. Hence, we can interpret that it is most likely for repair or inspection.
+
 
 ### City Official Map
 
