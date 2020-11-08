@@ -8,7 +8,7 @@ Click here - https://public.tableau.com/profile/preeti3210#!/vizhome/citybike_da
 As a new lead analyst for the New York Citi Bike Program, I am now responsible for overseeing the largest bike sharing program in the United States. In my new role, I will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the Citi Bike Data webpage.
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so our task on the job is to build a set of data reports to provide the answers.
-Our team selected New Jersey data to build a dashboard.
+Our team selected New Jersey data to build a dashboard and answer questions of the City Officials.
 
 ## Question set and the analysis:
 
@@ -36,5 +36,10 @@ https://github.com/UoT-Bootcamp/Tableau-Challenge/blob/main/screenshots/peak_hou
 During summer, riders are most active during 18:00 hours. However, in winter, they are most active during morning and evening time.
 
 ### Questions:
+
+* Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
+* Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
+* Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
+* Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
 
 
