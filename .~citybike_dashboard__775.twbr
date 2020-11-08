@@ -2629,7 +2629,7 @@
             <zone h='3423' id='3' type='title' w='98426' x='787' y='830' />
             <zone h='10477' id='4' is-fixed='true' paired-zone-id='5' removable='false' type='flipboard-nav' w='98426' x='787' y='4253' />
             <zone h='84440' id='5' paired-zone-id='4' removable='false' type='flipboard' w='98426' x='787' y='14730'>
-              <flipboard active-id='5' nav-type='caption' show-nav-arrows='true'>
+              <flipboard active-id='4' nav-type='caption' show-nav-arrows='true'>
                 <story-points>
                   <story-point caption='Total trips recordeed during January till October 2020 is  273,747. There is a increase in the ridership during summer season as people like to do out door activities which includes cycling also. Futher we can also say that due to Covid-19, people ride cycles to avoid public transport. Hence we can see a sudden increase during the month of May 2020. Number of rides taken by the subscribers and customers started increasing from April till September.' captured-sheet='Dashboard-ridership in 2020' id='2' />
                   <story-point caption='During summer, riders are most active during 18:00 hours. However, in winter, they are most active during morning and evening time.' captured-sheet='Dashboard-peak hours' id='3' />
@@ -3132,7 +3132,7 @@
       <active id='-1' />
       <simple-id uuid='{6DA9804C-2523-4366-A332-58AA692FDEAE}' />
     </window>
-    <window class='dashboard' maximized='true' name='Dashboard-top and bottom 10 stations'>
+    <window class='dashboard' name='Dashboard-top and bottom 10 stations'>
       <viewpoints>
         <viewpoint name='Bottom 10 stations to end journey'>
           <zoom type='entire-view' />
@@ -3190,7 +3190,7 @@
       <active id='-1' />
       <simple-id uuid='{48AF4303-3C12-4DAC-B5B1-001E8BE3C53D}' />
     </window>
-    <window class='dashboard' name='Story 1'>
+    <window class='dashboard' maximized='true' name='Story 1'>
       <viewpoints />
       <active id='-1' />
       <simple-id uuid='{F0E0D634-A0C5-4370-A546-97C602A2E0DD}' />
